@@ -1,0 +1,21 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "description": "A Node CLI app to display current and short-term weather information",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sandra Lundgren <sandra.lundgren@symbio.com>",
+  "license": "MIT",
+  "bin": {
+    "weather": "./cli.js"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chalk": "^2.4.1",
+    "dotenv": "^5.0.1",
+    "meow": "^5.0.0",
+    "moment": "^2.22.1"
+  }
+}
