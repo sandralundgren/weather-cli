@@ -2,7 +2,7 @@ const meow = require('meow');
 
 const cliFlags = meow(`
   Usage
-    $ say-weather <flag>
+    $ weather <flag>
 
   Options
     --celcius, -c     Show temperature in celcius degrees
