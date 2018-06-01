@@ -6,7 +6,7 @@ Weather data from [Open Weather Map API](https://openweathermap.org/api "Open We
 
 ## Features
 
-![Preview](https://github.com/sandralundgren/weather-cli/preview.png)
+![Preview](https://raw.github.com/sandralundgren/weather-cli/master/preview.png)
 
 Displays a brief summary of:
 
