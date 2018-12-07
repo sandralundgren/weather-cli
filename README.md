@@ -29,12 +29,22 @@ View wind speed information with the flag -w.
 View sunrise and sunset times with the flag -s.
 
 
+## Installation
+
+Install all the required dependencies.
+
+`$ npm install`
+
+Link the script as an executable.
+
+`$ npm link`
+
+
 ## How to use
 
 Get a free Open Weather Map API key.
 
 Create a .env file based on .env.sample and add your Open Weather Map API key.
-
 
 ## Notes
 
